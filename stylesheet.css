@@ -1,13 +1,18 @@
 h1{
+    font-family: serif;
+  
+   color: #ff0000;
+  
   font-size: 30px;
   
   color: #FFd800;
+  
+  background-color: #FF00FF;
   
   height: 80px;
   
   width: 200px;
   
-  background-color: #FF00FF;
 }
 
 img {
