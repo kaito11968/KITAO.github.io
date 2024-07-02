@@ -1,14 +1,15 @@
 P{
   color: #FF0000;
-
-  background-color: #FF00FF;
   
-
+  
   height: 80px;
   
 
   width: 200px;
   
+  background-color: #FF00FF;
+
+
 }
 
 img {
